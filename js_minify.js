@@ -1,0 +1,1 @@
+javascript:for(key of(console.log("%c-------START DEBUG------","background: #222; color: #bada55"),data=document.getElementById("app").__vue__._data,list_keys=Object.keys(data),list_keys)){let o=data[key];Array.isArray(o)&&(o=[...o]),"object"==typeof o&&null!==o&&(o={...o}),console.log(key,o)}console.log("%c-------END DEBUG------","background: #222; color: #bada55");
